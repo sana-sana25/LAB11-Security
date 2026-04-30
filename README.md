@@ -33,11 +33,10 @@ Ce laboratoire a pour objectif de comprendre comment les applications Android d√
 ```bash
 frida --version
 ```
-<img width="932" height="100" alt="1" src="https://github.com/user-attachments/assets/9b53f146-5dc2-4988-a0ea-390b36eff0c5" />
-
 ```bash
 python -c "import frida; print(frida.__version__)"
 ```
+<img width="932" height="100" alt="1" src="https://github.com/user-attachments/assets/9b53f146-5dc2-4988-a0ea-390b36eff0c5" />
 <img width="785" height="85" alt="2" src="https://github.com/user-attachments/assets/110b638f-0642-48fc-bfeb-2c1459b5d44b" />
 
 
