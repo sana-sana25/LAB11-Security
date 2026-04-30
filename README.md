@@ -57,10 +57,10 @@ adb devices
 
 ```bash
 adb push frida-server /data/local/tmp/
-<img width="1023" height="70" alt="image" src="https://github.com/user-attachments/assets/3a52b881-6f4b-4dde-8759-76beef4b74f0" />
 adb shell chmod 755 /data/local/tmp/frida-server
 adb shell "/data/local/tmp/frida-server &"
 ```
+<img width="1023" height="70" alt="image" src="https://github.com/user-attachments/assets/3a52b881-6f4b-4dde-8759-76beef4b74f0" />
 <img width="1102" height="92" alt="4" src="https://github.com/user-attachments/assets/d64ff146-d30a-40a9-bb81-46bbbc9f63fa" />
 
 ### 🔹 Vérification
