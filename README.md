@@ -37,6 +37,7 @@ frida --version
 python -c "import frida; print(frida.__version__)"
 ```
 <img width="932" height="100" alt="1" src="https://github.com/user-attachments/assets/9b53f146-5dc2-4988-a0ea-390b36eff0c5" />
+
 <img width="785" height="85" alt="2" src="https://github.com/user-attachments/assets/110b638f-0642-48fc-bfeb-2c1459b5d44b" />
 
 
@@ -61,6 +62,7 @@ adb shell chmod 755 /data/local/tmp/frida-server
 adb shell "/data/local/tmp/frida-server &"
 ```
 <img width="1023" height="70" alt="image" src="https://github.com/user-attachments/assets/3a52b881-6f4b-4dde-8759-76beef4b74f0" />
+
 <img width="1102" height="92" alt="4" src="https://github.com/user-attachments/assets/d64ff146-d30a-40a9-bb81-46bbbc9f63fa" />
 
 ### 🔹 Vérification
